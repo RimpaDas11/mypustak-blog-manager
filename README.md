@@ -60,7 +60,7 @@ Handles API and network errors gracefully.
 ## 📂 Project Structure
 
 ```text
-mypustak-blog-manager/
+mypustakblogmanager/
 │
 ├── backend/
 │   ├── main.py
