@@ -40,10 +40,10 @@ Handles API and network errors gracefully.
 
 ### Frontend
 
-* Next.js
+* HTML
 * React
-* TypeScript
-* Tailwind CSS
+* JavaScript
+* CSS 
 
 ### Backend
 
