@@ -41,7 +41,7 @@ Handles API and network errors gracefully.
 ### Frontend
 
 * HTML
-* React
+* React.JS 
 * JavaScript
 * CSS 
 
