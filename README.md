@@ -158,7 +158,7 @@ http://localhost:3000
 ## ✅ Assignment Requirements Covered
 
 * FastAPI Backend
-* Next.js Frontend
+* ReactJS Frontend
 * GET /posts
 * POST /posts
 * DELETE /posts/{id}
